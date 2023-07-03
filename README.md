@@ -1,2 +1,2 @@
-# cpp-questions
-Interview questions for CPP
+# interview questions
+Interview questions for CPP, C#, OOP, Python...
